@@ -24,12 +24,33 @@ This is a **blog reading app** built using **Kotlin and Jetpack Compose**, as pa
 
 ## Screenshots  
 
-| Blog List Screen | Blog Detail Screen |
-|-----------------|------------------|
-| *(Upload Screenshot Here)* | *(Upload Screenshot Here)* |
+**Blog List (Dark Mode)**
 
 
+![Image](https://github.com/user-attachments/assets/e2b4ef83-b090-4fb4-b42c-8886bf8da518)
 
+---
+**Blog List (Light Mode)**
+
+
+![Image](https://github.com/user-attachments/assets/08c3eb6f-d6f6-453b-ba0d-09d4c1c166bd)
+
+---
+**Web View**
+
+
+![Image](https://github.com/user-attachments/assets/dfe9650f-c621-4dd5-a7ff-9f8e87009198)
+
+---
+**No Internet(First Time Using The App)**
+
+
+![Image](https://github.com/user-attachments/assets/035b89ea-bee1-40a4-9695-299550c3d55c)
+
+---
+**No Internet- Cache Mode**
+
+![Image](https://github.com/user-attachments/assets/c8591a9a-c4be-464a-a818-a484ef1ff0be)
 
 ---
 
