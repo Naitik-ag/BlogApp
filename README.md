@@ -13,7 +13,6 @@ This is a **blog reading app** built using **Kotlin and Jetpack Compose**, as pa
 -  **Navigation Component** - Manages smooth transitions between screens.
 -  **Pagination (Infinite Scrolling)** - Automatically loads more blogs as the user scrolls.
 -  **Offline Caching (SQLite - Room)** - Blogs are stored locally and accessible offline.
--  **Efficient Data Loading** - Uses `Flow` and `StateFlow` for optimized performance.
 -  **Image Handling with Coil** - Loads blog images efficiently from URLs.
 - **Offline Support** - Cached blogs are shown when there’s no internet.
 
