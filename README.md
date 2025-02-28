@@ -6,7 +6,6 @@ This is a **blog reading app** built using **Kotlin and Jetpack Compose**, as pa
 
 ##  Features  
 
-###  Features
 -  **MVVM Architecture** - Ensures a clean and maintainable code structure.
 -  **Jetpack Compose UI** - Modern, declarative UI with Compose.
 -  **List of Blogs** - Fetches blog posts from API and displays them in a scrollable list.
