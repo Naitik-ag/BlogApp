@@ -1,4 +1,4 @@
-# 📰 Blog App (Vrid Internship Assignment)
+# 📰 Blog App 
 
 This is a **blog reading app** built using **Kotlin and Jetpack Compose**, as part of the **Vrid Internship Assignment**. The app fetches blog posts from an API, displays them in a list, and allows users to read full blog articles in a **WebView**.
 
